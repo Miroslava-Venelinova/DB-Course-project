@@ -6,9 +6,6 @@ GO
 
 CREATE OR ALTER PROC usp_DeleteAddress @address_id INT 
 AS
-	DELETE FROM Students 
-	WHERE [address] = @address_id
-
 	DELETE FROM Addresses 
 	WHERE address_id = @address_id
 GO
