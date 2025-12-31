@@ -1,12 +1,12 @@
 EXEC udp_GetStudentByFacultyNumber  'IGWPBGP360'
 
-EXEC udp_GetStudentByName 'Иван', 'Мирославов', 'Димитров'
+EXEC udp_GetStudentByName 'РРІР°РЅ', 'РњРёСЂРѕСЃР»Р°РІРѕРІ', 'Р”РёРјРёС‚СЂРѕРІ'
 
 EXEC udp_GetStudentBySubject 1
 
-EXEC udp_GetStudentByAverageGrades 4.99
+EXEC udp_GetStudentByAverageGrades 5.03
 
-EXEC udp_GetAverageGradeByFacultyNumber 'IGWPBGP360'
+EXEC udp_GetGradesByFacultyNumber 'IGWPBGP360'
 
 EXEC udp_GetAverageGradeByTeacher 1
 
