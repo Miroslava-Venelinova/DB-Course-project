@@ -1,6 +1,6 @@
-EXEC usp_UpdateAddress 2, 'Варна', 'ул. Кан. Петко Войвода 24'
+EXEC usp_UpdateAddress 2, 'Р’Р°СЂРЅР°', 'СѓР». РљР°РЅ. РџРµС‚РєРѕ Р’РѕР№РІРѕРґР° 24'
 
-EXEC usp_UpdateMajor 8, 'Изящни изкуства'
+EXEC usp_UpdateMajor 8, 'РР·СЏС‰РЅРё РёР·РєСѓСЃС‚РІР°'
 
 EXEC usp_UpdateMajorFee 8, 300.00
 
@@ -8,26 +8,24 @@ EXEC usp_UpdateStudentAddress 'O4VKWJT1TP', 10
 
 EXEC usp_UpdateStudentEnrollmentDate 'KSTFO87YRP', '2023-01-07'
 
-EXEC usp_UpdateStudentFirstName '4K3D62R933', 'Фьодор'
+EXEC usp_UpdateStudentFirstName '4K3D62R933', 'Р¤СЊРѕРґРѕСЂ'
 
 EXEC usp_UpdateStudentGroup 'D9XH1M4CW0', 2
 
-EXEC usp_UpdateStudentLastName 'YI3EIE0M99', 'Калчев'
+EXEC usp_UpdateStudentLastName 'YI3EIE0M99', 'РљР°Р»С‡РµРІ'
 
-EXEC usp_UpdateStudentMiddleName '8WD61MV2CK', 'Митев'
+EXEC usp_UpdateStudentMiddleName '8WD61MV2CK', 'РњРёС‚РµРІ'
 
 EXEC usp_UpdateStudentPhoneNumber 'IGWPBGP547', '08235575211'
 
 EXEC usp_UpdateStudentsSubject 'IGWPBGP547', 1, 2
 
-EXEC usp_UpdateStudentStream '8WD61MV2CK', 2
-
-EXEC usp_UpdateSubject 1, 'Висша Математика'
+EXEC usp_UpdateSubject 1, 'Р’РёСЃС€Р° РњР°С‚РµРјР°С‚РёРєР°'
 
 EXEC usp_UpdateSubjectTeacher 3, 4, 5
 
-EXEC usp_UpdateTeacherFistName 2, 'Малина'
-
-EXEC usp_UpdateTeacherLastName 1, 'Мирославов'
-
 EXEC usp_UpdateTeachersSubject 11, 13, 12
+
+EXEC usp_UpdateTeacherFistName 2, 'РњР°Р»РёРЅР°'
+
+EXEC usp_UpdateTeacherLastName 1, 'РњРёСЂРѕСЃР»Р°РІРѕРІ'
