@@ -29,10 +29,10 @@ AS
 	WHERE average_grade = @average_grade
 GO
 
-CREATE OR ALTER PROC udp_GetAverageGradeByFacultyNumber @faculty_number NVARCHAR(10)
+CREATE OR ALTER PROC udp_GetGradesByFacultyNumber @faculty_number NVARCHAR(10)
 AS
-	SELECT average_grade FROM Students
-	WHERE faculty_number = @faculty_number
+	SELECT * FROM Grades
+	WHERE student_id = @faculty_number
 GO
 
 CREATE OR ALTER PROC udp_GetStudentsWith1000UnpaidFees
@@ -43,7 +43,7 @@ GO
 
 CREATE OR ALTER PROC udp_GetAverageGradeByTeacher @teacher_id INT
 AS
-	SELECT s.average_grade AS AverageGrade FROM Students AS s
+	SELECT AVG(s.average_grade) AS AverageGrade FROM Students AS s
 	JOIN Students_Subjects AS stsub
 		ON s.faculty_number = stsub.student
 	JOIN Subjects AS sub
@@ -66,4 +66,3 @@ AS
 	SELECT TOP 10 * FROM Students
 	ORDER BY enrollment_date ASC
 GO
-
