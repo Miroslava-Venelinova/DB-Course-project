@@ -1,61 +1,61 @@
-EXEC usp_AddAddress 'Варна', 'ул. Георги Бенковски 3'
-EXEC usp_AddAddress 'Варна', 'ул. Кан. Петко Войвода 32'
-EXEC usp_AddAddress 'Варна', 'ул. Русе 1'
-EXEC usp_AddAddress 'Варна', 'ул. Парижка комуна 45'
-EXEC usp_AddAddress 'Варна', 'бул. Цар Освободител 10'
-EXEC usp_AddAddress 'Варна', 'бул. Македония 120'
-EXEC usp_AddAddress 'Варна', 'бул. Осми Приморски полк 35'
-EXEC usp_AddAddress 'Варна', 'ул. Дрин 23'
-EXEC usp_AddAddress 'Варна', 'бул. Княз Борис 50'
-EXEC usp_AddAddress 'Варна', 'бул. Васил Левски 78'
-EXEC usp_AddAddress 'Варна', 'ул. Св. Св. Кирил и Методи 25'
-EXEC usp_AddAddress 'Варна', 'ул. Козлодуй 23'
-EXEC usp_AddAddress 'Варна', 'ул. Д-р. Пискюлиев 42'
-EXEC usp_AddAddress 'Варна', 'бул. Република 20'
-EXEC usp_AddAddress 'Варна', 'бул. Сливница 123'
-EXEC usp_AddAddress 'Варна', 'бул. Ян Хуняди 102'
-EXEC usp_AddAddress 'Варна', 'ул. Мургаш 27'
-EXEC usp_AddAddress 'Варна', 'бул. Трети март 40'
+EXEC usp_AddAddress 'Р’Р°СЂРЅР°', 'СѓР». Р“РµРѕСЂРіРё Р‘РµРЅРєРѕРІСЃРєРё 3'
+EXEC usp_AddAddress 'Р’Р°СЂРЅР°', 'СѓР». РљР°РЅ. РџРµС‚РєРѕ Р’РѕР№РІРѕРґР° 32'
+EXEC usp_AddAddress 'Р’Р°СЂРЅР°', 'СѓР». Р СѓСЃРµ 1'
+EXEC usp_AddAddress 'Р’Р°СЂРЅР°', 'СѓР». РџР°СЂРёР¶РєР° РєРѕРјСѓРЅР° 45'
+EXEC usp_AddAddress 'Р’Р°СЂРЅР°', 'Р±СѓР». Р¦Р°СЂ РћСЃРІРѕР±РѕРґРёС‚РµР» 10'
+EXEC usp_AddAddress 'Р’Р°СЂРЅР°', 'Р±СѓР». РњР°РєРµРґРѕРЅРёСЏ 120'
+EXEC usp_AddAddress 'Р’Р°СЂРЅР°', 'Р±СѓР». РћСЃРјРё РџСЂРёРјРѕСЂСЃРєРё РїРѕР»Рє 35'
+EXEC usp_AddAddress 'Р’Р°СЂРЅР°', 'СѓР». Р”СЂРёРЅ 23'
+EXEC usp_AddAddress 'Р’Р°СЂРЅР°', 'Р±СѓР». РљРЅСЏР· Р‘РѕСЂРёСЃ 50'
+EXEC usp_AddAddress 'Р’Р°СЂРЅР°', 'Р±СѓР». Р’Р°СЃРёР» Р›РµРІСЃРєРё 78'
+EXEC usp_AddAddress 'Р’Р°СЂРЅР°', 'СѓР». РЎРІ. РЎРІ. РљРёСЂРёР» Рё РњРµС‚РѕРґРё 25'
+EXEC usp_AddAddress 'Р’Р°СЂРЅР°', 'СѓР». РљРѕР·Р»РѕРґСѓР№ 23'
+EXEC usp_AddAddress 'Р’Р°СЂРЅР°', 'СѓР». Р”-СЂ. РџРёСЃРєСЋР»РёРµРІ 42'
+EXEC usp_AddAddress 'Р’Р°СЂРЅР°', 'Р±СѓР». Р РµРїСѓР±Р»РёРєР° 20'
+EXEC usp_AddAddress 'Р’Р°СЂРЅР°', 'Р±СѓР». РЎР»РёРІРЅРёС†Р° 123'
+EXEC usp_AddAddress 'Р’Р°СЂРЅР°', 'Р±СѓР». РЇРЅ РҐСѓРЅСЏРґРё 102'
+EXEC usp_AddAddress 'Р’Р°СЂРЅР°', 'СѓР». РњСѓСЂРіР°С€ 27'
+EXEC usp_AddAddress 'Р’Р°СЂРЅР°', 'Р±СѓР». РўСЂРµС‚Рё РјР°СЂС‚ 40'
 
-EXEC usp_AddSubject 'Висша математика'
-EXEC usp_AddSubject 'Висша Алгебра'
-EXEC usp_AddSubject 'Математически анализ'
-EXEC usp_AddSubject 'Аналитична геометрия'
-EXEC usp_AddSubject 'Микроикономика'
-EXEC usp_AddSubject 'Макроикономика'
-EXEC usp_AddSubject 'Техническо чертане'
-EXEC usp_AddSubject 'Електроника'
-EXEC usp_AddSubject 'Мениджърство'
-EXEC usp_AddSubject 'Психология' 
-EXEC usp_AddSubject 'Философия'
-EXEC usp_AddSubject 'Основи на академично рисуване'
-EXEC usp_AddSubject 'История на изкуството'
-EXEC usp_AddSubject 'Материалознание'
-EXEC usp_AddSubject 'Неорганична химия' 
-EXEC usp_AddSubject 'Микробиология'
-EXEC usp_AddSubject 'Машинознание'
-EXEC usp_AddSubject 'Аналитична химия'
-EXEC usp_AddSubject 'Физика 1. част' 
-EXEC usp_AddSubject 'Физика 2. част'
+EXEC usp_AddSubject 'Р’РёСЃС€Р° РјР°С‚РµРјР°С‚РёРєР°'
+EXEC usp_AddSubject 'Р’РёСЃС€Р° РђР»РіРµР±СЂР°'
+EXEC usp_AddSubject 'РњР°С‚РµРјР°С‚РёС‡РµСЃРєРё Р°РЅР°Р»РёР·'
+EXEC usp_AddSubject 'РђРЅР°Р»РёС‚РёС‡РЅР° РіРµРѕРјРµС‚СЂРёСЏ'
+EXEC usp_AddSubject 'РњРёРєСЂРѕРёРєРѕРЅРѕРјРёРєР°'
+EXEC usp_AddSubject 'РњР°РєСЂРѕРёРєРѕРЅРѕРјРёРєР°'
+EXEC usp_AddSubject 'РўРµС…РЅРёС‡РµСЃРєРѕ С‡РµСЂС‚Р°РЅРµ'
+EXEC usp_AddSubject 'Р•Р»РµРєС‚СЂРѕРЅРёРєР°'
+EXEC usp_AddSubject 'РњРµРЅРёРґР¶СЉСЂСЃС‚РІРѕ'
+EXEC usp_AddSubject 'РџСЃРёС…РѕР»РѕРіРёСЏ' 
+EXEC usp_AddSubject 'Р¤РёР»РѕСЃРѕС„РёСЏ'
+EXEC usp_AddSubject 'РћСЃРЅРѕРІРё РЅР° Р°РєР°РґРµРјРёС‡РЅРѕ СЂРёСЃСѓРІР°РЅРµ'
+EXEC usp_AddSubject 'РСЃС‚РѕСЂРёСЏ РЅР° РёР·РєСѓСЃС‚РІРѕС‚Рѕ'
+EXEC usp_AddSubject 'РњР°С‚РµСЂРёР°Р»РѕР·РЅР°РЅРёРµ'
+EXEC usp_AddSubject 'РќРµРѕСЂРіР°РЅРёС‡РЅР° С…РёРјРёСЏ' 
+EXEC usp_AddSubject 'РњРёРєСЂРѕР±РёРѕР»РѕРіРёСЏ'
+EXEC usp_AddSubject 'РњР°С€РёРЅРѕР·РЅР°РЅРёРµ'
+EXEC usp_AddSubject 'РђРЅР°Р»РёС‚РёС‡РЅР° С…РёРјРёСЏ'
+EXEC usp_AddSubject 'Р¤РёР·РёРєР° 1. С‡Р°СЃС‚' 
+EXEC usp_AddSubject 'Р¤РёР·РёРєР° 2. С‡Р°СЃС‚'
 
-EXEC usp_AddTeacher 'Иван', 'Димитров'
-EXEC usp_AddTeacher 'Мая', 'Ковачева'
-EXEC usp_AddTeacher 'Мария', 'Василева'
-EXEC usp_AddTeacher 'Петър', 'Димитров'
-EXEC usp_AddTeacher 'Тодор', 'Вълков'
-EXEC usp_AddTeacher 'Илияна', 'Райкова' 
-EXEC usp_AddTeacher 'Светлин', 'Петров' 
-EXEC usp_AddTeacher 'Иванка', 'Стоянова' 
-EXEC usp_AddTeacher 'Димитър', 'Сотиров' 
-EXEC usp_AddTeacher 'Рая', 'Кирилова'
-EXEC usp_AddTeacher 'Марина','Диковска' 
-EXEC usp_AddTeacher 'Станимира', 'Димитрова'
-EXEC usp_AddTeacher 'Евгени', 'Мирков'
-EXEC usp_AddTeacher 'Радой', 'Пламенов'
-EXEC usp_AddTeacher 'Лилия', 'Попова'
-EXEC usp_AddTeacher 'Пламена', 'Христова'
-EXEC usp_AddTeacher 'Лариса', 'Ивановна'
-EXEC usp_AddTeacher 'Ана', 'Авджийска'
+EXEC usp_AddTeacher 'РРІР°РЅ', 'Р”РёРјРёС‚СЂРѕРІ'
+EXEC usp_AddTeacher 'РњР°СЏ', 'РљРѕРІР°С‡РµРІР°'
+EXEC usp_AddTeacher 'РњР°СЂРёСЏ', 'Р’Р°СЃРёР»РµРІР°'
+EXEC usp_AddTeacher 'РџРµС‚СЉСЂ', 'Р”РёРјРёС‚СЂРѕРІ'
+EXEC usp_AddTeacher 'РўРѕРґРѕСЂ', 'Р’СЉР»РєРѕРІ'
+EXEC usp_AddTeacher 'РР»РёСЏРЅР°', 'Р Р°Р№РєРѕРІР°' 
+EXEC usp_AddTeacher 'РЎРІРµС‚Р»РёРЅ', 'РџРµС‚СЂРѕРІ' 
+EXEC usp_AddTeacher 'РРІР°РЅРєР°', 'РЎС‚РѕСЏРЅРѕРІР°' 
+EXEC usp_AddTeacher 'Р”РёРјРёС‚СЉСЂ', 'РЎРѕС‚РёСЂРѕРІ' 
+EXEC usp_AddTeacher 'Р Р°СЏ', 'РљРёСЂРёР»РѕРІР°'
+EXEC usp_AddTeacher 'РњР°СЂРёРЅР°','Р”РёРєРѕРІСЃРєР°' 
+EXEC usp_AddTeacher 'РЎС‚Р°РЅРёРјРёСЂР°', 'Р”РёРјРёС‚СЂРѕРІР°'
+EXEC usp_AddTeacher 'Р•РІРіРµРЅРё', 'РњРёСЂРєРѕРІ'
+EXEC usp_AddTeacher 'Р Р°РґРѕР№', 'РџР»Р°РјРµРЅРѕРІ'
+EXEC usp_AddTeacher 'Р›РёР»РёСЏ', 'РџРѕРїРѕРІР°'
+EXEC usp_AddTeacher 'РџР»Р°РјРµРЅР°', 'РҐСЂРёСЃС‚РѕРІР°'
+EXEC usp_AddTeacher 'Р›Р°СЂРёСЃР°', 'РРІР°РЅРѕРІРЅР°'
+EXEC usp_AddTeacher 'РђРЅР°', 'РђРІРґР¶РёР№СЃРєР°'
 
 EXEC usp_AddTeacherSubjectPair 1, 1
 EXEC usp_AddTeacherSubjectPair 2, 5
@@ -78,18 +78,18 @@ EXEC usp_AddTeacherSubjectPair 16, 18
 EXEC usp_AddTeacherSubjectPair 17, 19 
 EXEC usp_AddTeacherSubjectPair 18, 20
 
-EXEC usp_AddMajor 'Математика'
-EXEC usp_AddMajor 'Информатика'
-EXEC usp_AddMajor 'Инженерна химия'
-EXEC usp_AddMajor 'Инженерна физика'
-EXEC usp_AddMajor 'Психология'
-EXEC usp_AddMajor 'Маркетинг'
-EXEC usp_AddMajor 'Маниджмънт'
-EXEC usp_AddMajor 'Изобразително изкуство'
-EXEC usp_AddMajor 'Биология'
-EXEC usp_AddMajor 'Микробиология'
-EXEC usp_AddMajor 'Компютърни науки'
-EXEC usp_AddMajor 'Инженерен дизайн'
+EXEC usp_AddMajor 'РњР°С‚РµРјР°С‚РёРєР°'
+EXEC usp_AddMajor 'РРЅС„РѕСЂРјР°С‚РёРєР°'
+EXEC usp_AddMajor 'РРЅР¶РµРЅРµСЂРЅР° С…РёРјРёСЏ'
+EXEC usp_AddMajor 'РРЅР¶РµРЅРµСЂРЅР° С„РёР·РёРєР°'
+EXEC usp_AddMajor 'РџСЃРёС…РѕР»РѕРіРёСЏ'
+EXEC usp_AddMajor 'РњР°СЂРєРµС‚РёРЅРі'
+EXEC usp_AddMajor 'РњР°РЅРёРґР¶РјСЉРЅС‚'
+EXEC usp_AddMajor 'РР·РѕР±СЂР°Р·РёС‚РµР»РЅРѕ РёР·РєСѓСЃС‚РІРѕ'
+EXEC usp_AddMajor 'Р‘РёРѕР»РѕРіРёСЏ'
+EXEC usp_AddMajor 'РњРёРєСЂРѕР±РёРѕР»РѕРіРёСЏ'
+EXEC usp_AddMajor 'РљРѕРјРїСЋС‚СЉСЂРЅРё РЅР°СѓРєРё'
+EXEC usp_AddMajor 'РРЅР¶РµРЅРµСЂРµРЅ РґРёР·Р°Р№РЅ'
 
 EXEC usp_AddMajorFee 1, 450.00
 EXEC usp_AddMajorFee 2, 550.00
@@ -104,25 +104,25 @@ EXEC usp_AddMajorFee 10, 500.00
 EXEC usp_AddMajorFee 11, 340.00
 EXEC usp_AddMajorFee 12, 450.00
 
-EXEC usp_AddStudent 'BPTULVDVRG', 'Иван', 'Мирославов', 'Димитров', 3, '0879675211', 12, 'Бакалавър', 1, 3, '2022-07-23'
-EXEC usp_AddStudent '1P9I6011FG', 'Мария', 'Славова', 'Петрова', 1, '08793345611', 11,'Бакалавър', 1, 2, '2023-08-06'
-EXEC usp_AddStudent '24L4QBU74S', 'Петър', 'Веселинов', 'Василев', 4, '0889675211', 6, 'Бакалавър', 2, 3, '2024-07-05'
-EXEC usp_AddStudent 'CR34S8ED8R', 'Симеон', 'Стефанов', 'Димитров', 6, '0807875211', 3, 'Магистър', 2, 2, '2025-07-01'
-EXEC usp_AddStudent 'J67VE4YSGC', 'Драган', 'Семов', 'Иванов', 7,  '0879675211', 10, 'Магистър', 1, 2, '2025-06-07'
-EXEC usp_AddStudent '9U6GLP00Z7', 'Стилян', 'Мирков', 'Калъчев', 8,  '0879675211', 5, 'Бакалавър', 1, 3, '2025-06-07'
-EXEC usp_AddStudent 'A34M56D0SM', 'Мирослава', 'Мирославова', 'Венелинова', 5, '0879675200', 11, 'Бакалавър', 1, 2, '2024-07-23'
-EXEC usp_AddStudent '86BPMR5F3D', 'Наталия', 'Николаевна', 'Баева', 11,  '0879689211', 1, 'Бакалавър', 1, 1, '2024-07-13'
-EXEC usp_AddStudent 'O4VKWJT1TP', 'Димитър', 'Светославов', 'Маричков', 10, '0870565211', 10, 'Магистър', 1, 1, '2023-07-05'
-EXEC usp_AddStudent 'D9XH1M4CW0', 'Мая', 'Христова', 'Пантелеева', 14,  '08796342211', 9, 'Магистър', 1, 1, '2023-06-07'
-EXEC usp_AddStudent 'KSTFO87YRP', 'Стиляна', 'Драгиева', 'Преславова', 13,  '0879670061', 11, 'Бакалавър', 1, 2, '2023-06-07'
-EXEC usp_AddStudent 'V8B62KAIR2', 'Илия', 'Петров', 'Петров', 12,  '0879585211', 2, 'Бакалавър', 2, 3, '2022-07-25'
-EXEC usp_AddStudent '4K3D62R933', 'Федор', 'Михайлович', 'Сергеев', 11,  '0879123211', 11, 'Бакалавър',1, 3, '2022-07-16'
-EXEC usp_AddStudent 'AJKI56AB40', 'Милен', 'Василев', 'Петров', 9,  '0889675211', 4, 'Бакалавър', 1, 2, '2022-07-06'
-EXEC usp_AddStudent 'YI3EIE0M99', 'Пламен', 'Тодоров', 'Тодоров', 2,  '0888675211',6, 'Бакалавър', 2, 1, '2024-07-12'
-EXEC usp_AddStudent '8WD61XL2CK', 'Стефан', 'Радославов', 'Теодоров', 15,  '0888895211',5, 'Бакалавър', 2, 1, '2024-07-02'
-EXEC usp_AddStudent 'IGWPBGP360', 'Калоян', 'Делянов', 'Янков', 16,  '0887775211', 9, 'Магистър', 2, 2, '2023-07-16' 
-EXEC usp_AddStudent '8WD61MV2CK', 'Явор', 'Митков', 'Вангелов', 17,  '0878675261', 1, 'Бакалавър', 1, 1, '2022-07-06'
-EXEC usp_AddStudent 'IGWPBGP547', 'Евгений', 'Иванович', 'Рошков', 18,  '08234575211', 1, 'Бакалавър', 1, 3, '2023-07-12'
+EXEC usp_AddStudent 'BPTULVDVRG', 'РРІР°РЅ', 'РњРёСЂРѕСЃР»Р°РІРѕРІ', 'Р”РёРјРёС‚СЂРѕРІ', 3, '0879675211', 12, 'Р‘Р°РєР°Р»Р°РІСЉСЂ', 1, 3, '2022-07-23'
+EXEC usp_AddStudent '1P9I6011FG', 'РњР°СЂРёСЏ', 'РЎР»Р°РІРѕРІР°', 'РџРµС‚СЂРѕРІР°', 1, '08793345611', 11,'Р‘Р°РєР°Р»Р°РІСЉСЂ', 1, 2, '2023-08-06'
+EXEC usp_AddStudent '24L4QBU74S', 'РџРµС‚СЉСЂ', 'Р’РµСЃРµР»РёРЅРѕРІ', 'Р’Р°СЃРёР»РµРІ', 4, '0889675211', 6, 'Р‘Р°РєР°Р»Р°РІСЉСЂ', 2, 3, '2024-07-05'
+EXEC usp_AddStudent 'CR34S8ED8R', 'РЎРёРјРµРѕРЅ', 'РЎС‚РµС„Р°РЅРѕРІ', 'Р”РёРјРёС‚СЂРѕРІ', 6, '0807875211', 3, 'РњР°РіРёСЃС‚СЉСЂ', 2, 2, '2025-07-01'
+EXEC usp_AddStudent 'J67VE4YSGC', 'Р”СЂР°РіР°РЅ', 'РЎРµРјРѕРІ', 'РРІР°РЅРѕРІ', 7,  '0879675211', 10, 'РњР°РіРёСЃС‚СЉСЂ', 1, 2, '2025-06-07'
+EXEC usp_AddStudent '9U6GLP00Z7', 'РЎС‚РёР»СЏРЅ', 'РњРёСЂРєРѕРІ', 'РљР°Р»СЉС‡РµРІ', 8,  '0879675211', 5, 'Р‘Р°РєР°Р»Р°РІСЉСЂ', 1, 3, '2025-06-07'
+EXEC usp_AddStudent 'A34M56D0SM', 'РњРёСЂРѕСЃР»Р°РІР°', 'РњРёСЂРѕСЃР»Р°РІРѕРІР°', 'Р’РµРЅРµР»РёРЅРѕРІР°', 5, '0879675200', 11, 'Р‘Р°РєР°Р»Р°РІСЉСЂ', 1, 2, '2024-07-23'
+EXEC usp_AddStudent '86BPMR5F3D', 'РќР°С‚Р°Р»РёСЏ', 'РќРёРєРѕР»Р°РµРІРЅР°', 'Р‘Р°РµРІР°', 11,  '0879689211', 1, 'Р‘Р°РєР°Р»Р°РІСЉСЂ', 1, 1, '2024-07-13'
+EXEC usp_AddStudent 'O4VKWJT1TP', 'Р”РёРјРёС‚СЉСЂ', 'РЎРІРµС‚РѕСЃР»Р°РІРѕРІ', 'РњР°СЂРёС‡РєРѕРІ', 10, '0870565211', 10, 'РњР°РіРёСЃС‚СЉСЂ', 1, 1, '2023-07-05'
+EXEC usp_AddStudent 'D9XH1M4CW0', 'РњР°СЏ', 'РҐСЂРёСЃС‚РѕРІР°', 'РџР°РЅС‚РµР»РµРµРІР°', 14,  '08796342211', 9, 'РњР°РіРёСЃС‚СЉСЂ', 1, 1, '2023-06-07'
+EXEC usp_AddStudent 'KSTFO87YRP', 'РЎС‚РёР»СЏРЅР°', 'Р”СЂР°РіРёРµРІР°', 'РџСЂРµСЃР»Р°РІРѕРІР°', 13,  '0879670061', 11, 'Р‘Р°РєР°Р»Р°РІСЉСЂ', 1, 2, '2023-06-07'
+EXEC usp_AddStudent 'V8B62KAIR2', 'РР»РёСЏ', 'РџРµС‚СЂРѕРІ', 'РџРµС‚СЂРѕРІ', 12,  '0879585211', 2, 'Р‘Р°РєР°Р»Р°РІСЉСЂ', 2, 3, '2022-07-25'
+EXEC usp_AddStudent '4K3D62R933', 'Р¤РµРґРѕСЂ', 'РњРёС…Р°Р№Р»РѕРІРёС‡', 'РЎРµСЂРіРµРµРІ', 11,  '0879123211', 11, 'Р‘Р°РєР°Р»Р°РІСЉСЂ',1, 3, '2022-07-16'
+EXEC usp_AddStudent 'AJKI56AB40', 'РњРёР»РµРЅ', 'Р’Р°СЃРёР»РµРІ', 'РџРµС‚СЂРѕРІ', 9,  '0889675211', 4, 'Р‘Р°РєР°Р»Р°РІСЉСЂ', 1, 2, '2022-07-06'
+EXEC usp_AddStudent 'YI3EIE0M99', 'РџР»Р°РјРµРЅ', 'РўРѕРґРѕСЂРѕРІ', 'РўРѕРґРѕСЂРѕРІ', 2,  '0888675211',6, 'Р‘Р°РєР°Р»Р°РІСЉСЂ', 2, 1, '2024-07-12'
+EXEC usp_AddStudent '8WD61XL2CK', 'РЎС‚РµС„Р°РЅ', 'Р Р°РґРѕСЃР»Р°РІРѕРІ', 'РўРµРѕРґРѕСЂРѕРІ', 15,  '0888895211',5, 'Р‘Р°РєР°Р»Р°РІСЉСЂ', 2, 1, '2024-07-02'
+EXEC usp_AddStudent 'IGWPBGP360', 'РљР°Р»РѕСЏРЅ', 'Р”РµР»СЏРЅРѕРІ', 'РЇРЅРєРѕРІ', 16,  '0887775211', 9, 'РњР°РіРёСЃС‚СЉСЂ', 2, 2, '2023-07-16' 
+EXEC usp_AddStudent '8WD61MV2CK', 'РЇРІРѕСЂ', 'РњРёС‚РєРѕРІ', 'Р’Р°РЅРіРµР»РѕРІ', 17,  '0878675261', 1, 'Р‘Р°РєР°Р»Р°РІСЉСЂ', 1, 1, '2022-07-06'
+EXEC usp_AddStudent 'IGWPBGP547', 'Р•РІРіРµРЅРёР№', 'РРІР°РЅРѕРІРёС‡', 'Р РѕС€РєРѕРІ', 18,  '08234575211', 1, 'Р‘Р°РєР°Р»Р°РІСЉСЂ', 1, 3, '2023-07-12'
 
 EXEC usp_AddStudentSubjectPair 'BPTULVDVRG', 7
 EXEC usp_AddStudentSubjectPair 'BPTULVDVRG', 13
@@ -191,10 +191,10 @@ EXEC usp_AddGrade '2023-04-13', 'BPTULVDVRG', 13, 11, 5.50
 EXEC usp_AddGrade '2023-05-02', 'BPTULVDVRG', 16, 14, 6.00
 EXEC usp_AddGrade '2024-05-02', '1P9I6011FG', 1, 1, 4.50
 EXEC usp_AddGrade '2024-05-12', '1P9I6011FG', 2, 3, 6.00
-EXEC usp_AddGrade '2024-04-05', '1P9I6011FG', 19, 17, 5.00
+EXEC usp_AddGrade '2024-04-05', '1P9I6011FG', 17, 19, 5.00
 EXEC usp_AddGrade '2024-02-05', '1P9I6011FG', 1, 1, 4.00
 EXEC usp_AddGrade '2024-02-05', '1P9I6011FG', 2, 3, 5.00
-EXEC usp_AddGrade '2024-02-05', '1P9I6011FG', 19, 17, 6.00
+EXEC usp_AddGrade '2024-02-05', '1P9I6011FG', 17, 19, 6.00
 EXEC usp_AddGrade '2024-02-05','24L4QBU74S', 5, 2, 5.60
 EXEC usp_AddGrade '2024-02-05','24L4QBU74S', 6, 2, 4.50
 EXEC usp_AddGrade '2024-02-05','24L4QBU74S', 9, 8, 5.00
@@ -204,79 +204,76 @@ EXEC usp_AddGrade '2024-02-05','24L4QBU74S', 9, 8, 4.50
 EXEC usp_AddGrade '2022-02-05','24L4QBU74S', 5, 2, 5.00
 EXEC usp_AddGrade '2022-02-05','24L4QBU74S', 9, 8, 5.60
 EXEC usp_AddGrade '2024-02-05','CR34S8ED8R', 1, 1, 5.00
-EXEC usp_AddGrade '2024-02-05','CR34S8ED8R', 13, 15, 4.50
-EXEC usp_AddGrade '2024-02-05','CR34S8ED8R', 14, 12, 4.00
-EXEC usp_AddGrade '2023-02-05','CR34S8ED8R', 17, 15, 5.00
+EXEC usp_AddGrade '2024-02-05','CR34S8ED8R', 15, 13, 4.50
+EXEC usp_AddGrade '2024-02-05','CR34S8ED8R', 12, 14, 4.00
+EXEC usp_AddGrade '2023-02-05','CR34S8ED8R', 15, 17, 5.00
 EXEC usp_AddGrade '2024-02-05', 'J67VE4YSGC', 1, 1, 4.50
-EXEC usp_AddGrade '2023-02-05', 'J67VE4YSGC', 15, 13, 5.00
+EXEC usp_AddGrade '2023-02-05', 'J67VE4YSGC', 13, 15, 5.00
 EXEC usp_AddGrade '2023-02-05', 'J67VE4YSGC', 1, 1, 5.00
-EXEC usp_AddGrade '2024-02-05', 'J67VE4YSGC', 15, 13, 5.60
+EXEC usp_AddGrade '2024-02-05', 'J67VE4YSGC', 13, 15, 5.60
 EXEC usp_AddGrade '2024-02-05', 'J67VE4YSGC', 1, 1, 5.40
-EXEC usp_AddGrade '2024-02-05', 'J67VE4YSGC', 15, 13, 5.75
-EXEC usp_AddGrade '2024-02-05', '9U6GLP00Z7', 10, 9, 5.60
-EXEC usp_AddGrade '2024-02-05', '9U6GLP00Z7', 11, 13, 5.70
-EXEC usp_AddGrade '2024-02-05', '9U6GLP00Z7', 10, 9, 5.80
-EXEC usp_AddGrade '2024-02-05', '9U6GLP00Z7', 11, 13, 5.60
+EXEC usp_AddGrade '2024-02-05', 'J67VE4YSGC', 13, 15, 5.75
+EXEC usp_AddGrade '2024-02-05', '9U6GLP00Z7', 9, 10, 5.60
+EXEC usp_AddGrade '2024-02-05', '9U6GLP00Z7', 13, 11, 5.70
+EXEC usp_AddGrade '2024-02-05', '9U6GLP00Z7', 9, 10, 5.80
+EXEC usp_AddGrade '2024-02-05', '9U6GLP00Z7', 13, 11, 5.60
 EXEC usp_AddGrade '2025-02-05', 'A34M56D0SM', 1, 1, 6.00
-EXEC usp_AddGrade '2025-02-05', 'A34M56D0SM', 2, 3, 5.80
-EXEC usp_AddGrade '2025-02-05', 'A34M56D0SM', 19, 17, 5.80
+EXEC usp_AddGrade '2025-02-05', 'A34M56D0SM', 3, 2, 5.80
+EXEC usp_AddGrade '2025-02-05', 'A34M56D0SM', 17, 19, 5.80
 EXEC usp_AddGrade '2025-02-05', 'A34M56D0SM', 1, 1, 6.00
-EXEC usp_AddGrade '2025-02-05', 'A34M56D0SM', 2, 3, 5.75
-EXEC usp_AddGrade '2025-02-05', 'A34M56D0SM', 19, 17, 5.00
-EXEC usp_AddGrade '2025-02-05', '86BPMR5F3D', 2, 3, 6.00
-EXEC usp_AddGrade '2025-02-05', '86BPMR5F3D', 3, 2, 5.70
-EXEC usp_AddGrade '2025-02-05', '86BPMR5F3D', 4, 5, 5.80
-EXEC usp_AddGrade '2025-02-05', '86BPMR5F3D', 2, 3, 5.80
-EXEC usp_AddGrade '2025-02-05', '86BPMR5F3D', 3, 2, 5.75
-EXEC usp_AddGrade '2025-02-05', '86BPMR5F3D', 4, 5, 5.80
+EXEC usp_AddGrade '2025-02-05', 'A34M56D0SM', 3, 2, 5.75
+EXEC usp_AddGrade '2025-02-05', 'A34M56D0SM', 17, 19, 5.00
+EXEC usp_AddGrade '2025-02-05', '86BPMR5F3D', 3, 2, 6.00
+EXEC usp_AddGrade '2025-02-05', '86BPMR5F3D', 2, 3, 5.70
+EXEC usp_AddGrade '2025-02-05', '86BPMR5F3D', 5, 4, 5.80
+EXEC usp_AddGrade '2025-02-05', '86BPMR5F3D', 3, 2, 5.80
+EXEC usp_AddGrade '2025-02-05', '86BPMR5F3D', 2, 3, 5.75
+EXEC usp_AddGrade '2025-02-05', '86BPMR5F3D', 5, 4, 5.80
 EXEC usp_AddGrade '2024-02-05', 'O4VKWJT1TP', 1, 1, 4.50
-EXEC usp_AddGrade '2023-02-05', 'O4VKWJT1TP', 14, 12, 4.00
-EXEC usp_AddGrade '2022-02-05', 'O4VKWJT1TP', 15, 13, 5.00
+EXEC usp_AddGrade '2023-02-05', 'O4VKWJT1TP', 12, 14, 4.00
+EXEC usp_AddGrade '2022-02-05', 'O4VKWJT1TP', 13, 15, 5.00
 EXEC usp_AddGrade '2024-02-05', 'KSTFO87YRP', 1, 1, 5.00
-EXEC usp_AddGrade '2022-02-05', 'KSTFO87YRP', 3, 2, 5.00
+EXEC usp_AddGrade '2022-02-05', 'KSTFO87YRP', 2, 3, 5.00
 EXEC usp_AddGrade '2022-02-05', 'KSTFO87YRP', 1, 1, 5.50
-EXEC usp_AddGrade '2024-02-05', 'KSTFO87YRP', 3, 2, 5.45
-EXEC usp_AddGrade '2024-02-05', 'KSTFO87YRP', 20, 18, 4.50
-EXEC usp_AddGrade '2023-02-05', 'D9XH1M4CW0', 15, 13, 5.60
-EXEC usp_AddGrade '2023-02-05', 'D9XH1M4CW0', 16, 14, 5.60
+EXEC usp_AddGrade '2024-02-05', 'KSTFO87YRP', 2, 3, 5.45
+EXEC usp_AddGrade '2024-02-05', 'KSTFO87YRP', 18, 20, 4.50
+EXEC usp_AddGrade '2023-02-05', 'D9XH1M4CW0', 13, 15, 5.60
+EXEC usp_AddGrade '2023-02-05', 'D9XH1M4CW0', 14, 16, 5.60
 EXEC usp_AddGrade '2024-02-05', 'V8B62KAIR2', 1, 1, 4.00
-EXEC usp_AddGrade '2025-02-05', 'V8B62KAIR2', 2, 3, 4.50
-EXEC usp_AddGrade '2025-02-05', 'V8B62KAIR2', 4, 5, 5.60
+EXEC usp_AddGrade '2025-02-05', 'V8B62KAIR2', 3, 2, 4.50
+EXEC usp_AddGrade '2025-02-05', 'V8B62KAIR2', 5, 4, 5.60
 EXEC usp_AddGrade '2024-02-05', 'V8B62KAIR2', 1, 1, 4.50
-EXEC usp_AddGrade '2023-02-05', 'V8B62KAIR2', 2, 3, 5.60
-EXEC usp_AddGrade '2023-02-05', 'V8B62KAIR2', 4, 5, 5.70
+EXEC usp_AddGrade '2023-02-05', 'V8B62KAIR2', 3, 2, 5.60
+EXEC usp_AddGrade '2023-02-05', 'V8B62KAIR2', 5, 4, 5.70
 EXEC usp_AddGrade '2022-02-05', '4K3D62R933', 1, 1, 5.80
-EXEC usp_AddGrade '2022-02-05', '4K3D62R933', 3, 2, 5.70
-EXEC usp_AddGrade '2024-02-05', '4K3D62R933', 20, 18, 6.00 
+EXEC usp_AddGrade '2022-02-05', '4K3D62R933', 2, 3, 5.70
+EXEC usp_AddGrade '2024-02-05', '4K3D62R933', 18, 20, 6.00 
 EXEC usp_AddGrade '2022-02-05', '4K3D62R933', 1, 1, 5.90
 EXEC usp_AddGrade '2024-02-05', '4K3D62R933', 3, 2, 5.60
-EXEC usp_AddGrade '2022-02-05', '4K3D62R933', 20, 18, 5.00 
-EXEC usp_AddGrade '2024-02-05', 'AJKI56AB40', 19, 17, 5.60
-EXEC usp_AddGrade '2023-02-05', 'AJKI56AB40', 20, 18, 4.50
-EXEC usp_AddGrade '2025-02-05', 'AJKI56AB40', 17, 15, 4.50
-EXEC usp_AddGrade '2025-02-05', 'AJKI56AB40', 19, 17, 5.00
-EXEC usp_AddGrade '2024-02-05', 'AJKI56AB40', 20, 18, 5.00
-EXEC usp_AddGrade '2025-02-05', 'AJKI56AB40', 17, 15, 5.40
+EXEC usp_AddGrade '2022-02-05', '4K3D62R933', 18, 20, 5.00 
+EXEC usp_AddGrade '2024-02-05', 'AJKI56AB40', 17, 19, 5.60
+EXEC usp_AddGrade '2023-02-05', 'AJKI56AB40', 18, 20, 4.50
+EXEC usp_AddGrade '2025-02-05', 'AJKI56AB40', 15, 17, 4.50
+EXEC usp_AddGrade '2025-02-05', 'AJKI56AB40', 17, 19, 5.00
+EXEC usp_AddGrade '2024-02-05', 'AJKI56AB40', 18, 20, 5.00
+EXEC usp_AddGrade '2025-02-05', 'AJKI56AB40', 15, 17, 5.40
 EXEC usp_AddGrade '2023-02-05', 'YI3EIE0M99', 1, 1, 4.50
-EXEC usp_AddGrade '2023-02-05', 'YI3EIE0M99', 5, 2, 3.50
-EXEC usp_AddGrade '2022-02-05', 'YI3EIE0M99', 6, 2, 5.00
+EXEC usp_AddGrade '2023-02-05', 'YI3EIE0M99', 2, 5, 3.50
+EXEC usp_AddGrade '2022-02-05', 'YI3EIE0M99', 2, 6, 5.00
 EXEC usp_AddGrade '2024-02-05', 'YI3EIE0M99', 1, 1, 4.70
-EXEC usp_AddGrade '2023-02-05', 'YI3EIE0M99', 5, 2, 4.00
-EXEC usp_AddGrade '2022-02-05', 'YI3EIE0M99', 6, 2, 5.60
-EXEC usp_AddGrade '2024-02-05', '8WD61XL2CK', 9, 8, 5.60
-EXEC usp_AddGrade '2024-02-05', '8WD61XL2CK', 10, 9, 5.70
-EXEC usp_AddGrade '2022-02-05', '8WD61XL2CK', 11, 13, 4.00
+EXEC usp_AddGrade '2023-02-05', 'YI3EIE0M99', 2, 5, 4.00
+EXEC usp_AddGrade '2022-02-05', 'YI3EIE0M99', 2, 6, 5.60
+EXEC usp_AddGrade '2024-02-05', '8WD61XL2CK', 8, 9, 5.60
+EXEC usp_AddGrade '2024-02-05', '8WD61XL2CK', 9, 10, 5.70
+EXEC usp_AddGrade '2022-02-05', '8WD61XL2CK', 13, 11, 4.00
 EXEC usp_AddGrade '2025-02-05', 'IGWPBGP360', 1, 1, 6.00
-EXEC usp_AddGrade '2025-02-05', 'IGWPBGP360', 15, 13, 5.60
-EXEC usp_AddGrade '2024-02-05', 'IGWPBGP360', 16, 14, 5.50
-EXEC usp_AddGrade '2023-02-05', 'IGWPBGP360', 15, 13, 5.00
-EXEC usp_AddGrade '2023-02-05', 'IGWPBGP360', 16, 14, 5.70
-EXEC usp_AddGrade '2024-02-05', '8WD61MV2CK', 2, 3, 5.60
-EXEC usp_AddGrade '2024-02-05', '8WD61MV2CK', 3, 2, 4.00
-EXEC usp_AddGrade '2023-02-05', '8WD61MV2CK', 4, 5, 3.00
+EXEC usp_AddGrade '2025-02-05', 'IGWPBGP360', 13, 15, 5.60
+EXEC usp_AddGrade '2024-02-05', 'IGWPBGP360', 14, 16, 5.50
+EXEC usp_AddGrade '2023-02-05', 'IGWPBGP360', 13, 15, 5.00
+EXEC usp_AddGrade '2023-02-05', 'IGWPBGP360', 14, 16, 5.70
+EXEC usp_AddGrade '2024-02-05', '8WD61MV2CK', 3, 2, 5.60
+EXEC usp_AddGrade '2024-02-05', '8WD61MV2CK', 2, 3, 4.00
+EXEC usp_AddGrade '2023-02-05', '8WD61MV2CK', 5, 4, 3.00
 EXEC usp_AddGrade '2022-02-05', 'IGWPBGP547', 1, 1, 4.50
-EXEC usp_AddGrade '2022-02-05', 'IGWPBGP547', 19, 17, 5.60
-EXEC usp_AddGrade '2023-02-05', 'IGWPBGP547', 20, 18, 5.00
-EXEC usp_AddGrade '2024-02-05', 'IGWPBGP547', 1, 1, 4.00
-EXEC usp_AddGrade '2023-02-05', 'IGWPBGP547', 19, 17, 5.80
-EXEC usp_AddGrade '2023-02-05', 'IGWPBGP547', 20, 18, 5.20
+EXEC usp_AddGrade '2022-02-05', 'IGWPBGP547', 17, 19, 5.60
+EXEC usp_AddGrade '2023-02-05', 'IGWPBGP547', 18, 20, 5.00
