@@ -6,13 +6,13 @@ The Rector's Office of the Free University - Varna wants to create an internal d
 2. A student can only be graded by a lecturer who teaches them and only in the subject they teach.
   
 Each student's file contains:
-● student details – name, address – city and street, telephone number;
-● faculty number - as unique student id;
-● group and stream;
-● subjects studied;
-● currernt grades;
-● average grade;
-● semester fees due at the moment;
+- student details – name, address – city and street, telephone number;
+- faculty number - as unique student id;
+- group and stream;
+- subjects studied;
+- currernt grades;
+- average grade;
+- semester fees due at the moment;
 
 # Database specification
 The created database provides data entry for: students, teachers, subjects, grades, fees.
